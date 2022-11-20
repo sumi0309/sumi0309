@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Sumiran Jaiswal
+- 👋 Hi, I’m Sumiran Jaiswal, Undergraduate from Indore,M.P., India.
 - 👀 I’m interested in Coding
 - 🌱 I’m currently learning Data Structures and Algorithms
 - 📫 How to reach me - sumiranjaiswal09@gmail.com
