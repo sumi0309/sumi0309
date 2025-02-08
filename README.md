@@ -2,7 +2,7 @@
 
 **Master of Engineering in Software Engineering** @ University of Maryland (Expected May 2026)  
 📍 College Park, MD | ✉️ [sumi0309@umd.edu](mailto:sumi0309@umd.edu) | 📱 202-760-1163  
-💼 **Open to Summer 2025 Internships** | 🔗 [LinkedIn](https://www.linkedin.com/in/sumiran-jaiswal-b8199a21b/) • [Portfolio](https://sumi0309.github.io/portfolio/) • [GDG](https://gdg.community.dev/gdg-on-campus-university-of-maryland-college-park-united-states/) • [Github](https://github.com/sumi0309) 
+💼 **Open to Summer 2025 Internships** | 🔗 [LinkedIn](https://www.linkedin.com/in/sumiran-jaiswal-b8199a21b/) • [Portfolio](https://sumi0309.github.io/portfolio/) • [GDG](https://gdg.community.dev/gdg-on-campus-university-of-maryland-college-park-united-states/) 
 
 ---
 
