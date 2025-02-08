@@ -34,8 +34,6 @@
 
 ---
 
----
-
 ## 🌟 Let's Connect!
 - **Open to Collaborations:** Passionate about cloud-native solutions, secure software design, and impactful tech.  
 - **Internship Availability:** Actively seeking **Summer 2025** internships in software engineering, cloud, or DevOps roles.  
