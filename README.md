@@ -34,13 +34,6 @@
 
 ---
 
-## 🔥 Highlighted Projects
-### **News Aggregator** | ASP.NET Core, Entity Framework, SQL Server
-- Designed a role-based web app (Authors/Readers/Contributors) with SRS/SAD documentation and secure code reviews.
-
-### **Smart Attendance Portal (Patented)** | React, FaceAPI.js, Database Optimization
-- Automated attendance tracking via facial recognition; achieved patent grant for innovation.
-
 ---
 
 ## 🌟 Let's Connect!
