@@ -22,15 +22,15 @@ I'm currently exploring Summer 2025 internship opportunities in software enginee
 
 ## 💻 Technical Skills
 - **Languages:** C#, Python, Java, JavaScript, SQL, C++, HTML/CSS, Shell Scripting  
-- **Frameworks & Tools:** ASP.NET Core, React, Next.js, Spring, Django, Docker, Kubernetes, Terraform, Git  
+- **Frameworks & Tools:** ASP.NET Core, React, Next.js, Spring Boot, Django, Docker, Kubernetes, Terraform, Git  
 - **Cloud & DevOps:** AWS, Google Cloud, Azure, IAM, Cloud Formation, SLO/SLA  
-- **Software Design:** SOLID principles, Design Patterns, Microservices, Secure Code Review  
+- **Software Design:** SOLID principles, Design Patterns, Microservices  
 - **Certifications:** Google Associate Cloud Engineer, Patent Holder (Smart Attendance Portal)  
 
 ---
 
 ## 🚀 Experience
-### **Cloud Engineering** | Cognizant *(Jan – May 2024)*
+### **Cloud Engineer** | Cognizant *(Jan 2023 – May 2024)*
 - Learning: Varioud IaaS, PaaS and SaaS offerings of GCP. Involved Docker, Kubernetes, GKE, Vertex AI, AutoML, Compute Engine, App Engine, SRE, Virtual machines, VPC.
 - Reponsibilities: Finding the optimal and cost effective solution for client's problem.
 - Outcomes: Graduated as a Google Cloud Certified - Associate Cloud Engineer with a FTE offer.
