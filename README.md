@@ -1,5 +1,10 @@
 # 👋 Hi, I'm Sumiran Jaiswal
-Aspiring Software Engineer with a strong foundation in cloud-native solutions, secure software design, and scalable architectures. Currently pursuing a Master of Engineering in Software Engineering and specializing in Cloud Engineering at the University of Maryland while serving as the Technical Lead at GDSC-UMD, where I mentor over 250 students in modern frameworks and cloud technologies. My focus is on leveraging advanced tools like AWS, Google Cloud, Kubernetes, and DevOps practices to build impactful, efficient, and secure systems. Actively seeking Summer 2025 internships to further grow in software engineering, cloud computing, and DevOps roles.
+
+Software Engineer with a strong foundation in cloud-native development, secure software design, and scalable system architectures. I'm currently pursuing a Master of Engineering in Software Engineering with a specialization in Cloud Engineering at the University of Maryland. 
+
+Alongside my studies, I serve as the Technical Lead for GDSC-UMD, where I mentor a community of over 250 students in cloud technologies and modern development frameworks. I enjoy working with tools like AWS, Google Cloud, Kubernetes, and DevOps pipelines to build efficient, secure, and impactful solutions.
+
+I'm currently exploring Summer 2025 internship opportunities in software engineering, cloud computing, or DevOps to continue growing through hands-on experience.
 
 **Master of Engineering in Software Engineering** @ University of Maryland (Expected May 2026)  
 **Technical Lead** @ GDSC-UMD
